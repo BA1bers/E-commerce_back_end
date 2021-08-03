@@ -10,12 +10,13 @@ class Product extends Model {}
 Product.init(
   {
     // // defined columns
-    id: {
-      type: DataTypes.INTEGER,
-      allowNull: false,
-      primaryKey: true,
-      auto_increment: true,
-    },
+    //commented this part out because it was causing issues with insomnia
+    // id: {
+    //   type: DataTypes.INTEGER,
+    //   allowNull: false,
+    //   primaryKey: true,
+    //   auto_increment: true,
+    // },
     product_name: {
       type: DataTypes.STRING,
       allowNull: false,
