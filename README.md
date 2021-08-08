@@ -11,7 +11,10 @@
 As a manager at an internet retail company, I want a back end for my e-commerce website that uses the latest technologies so that my company can compete with other e-commerce companies
 
 ## Screenshots
-![]()
+![Setup](./assets/Setup.gif)
+![Categories](./assets/Category.gif)
+![Products](./assets/Product.gif)
+![Tags](./assets/Tags.gif)
 
 ## How to install 
 You can clone the repository by clicking the green code button above and then click the 'Download Zip' option. 
